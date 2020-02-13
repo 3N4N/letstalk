@@ -2,6 +2,7 @@
 layout: story
 title: "Protagonist"
 author: "Sadman Fakid"
+email: "sadman.fakid69@gmail.com"
 date: 2019-08-17
 categories: [Short Story]
 comments: true
