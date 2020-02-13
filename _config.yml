@@ -26,6 +26,8 @@ baseurl: "/letstalk" # the subpath of your site, e.g. /blog
 url: "https://3n4n.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: enan_ajmain
 github_username:  3N4N
+disqus:
+  shortname: letstalk-2
 
 # Build settings
 theme: minima
