@@ -1,7 +1,7 @@
 ---
 layout: story
-title: "PROTAGONIST"
-author: "Sadman Sakib"
+title: "Protagonist"
+author: "Sadman Fakid"
 date: 2019-08-17
 categories: Story
 permalink: "/:title.html"
