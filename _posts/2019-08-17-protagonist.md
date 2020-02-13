@@ -4,6 +4,7 @@ title: "Protagonist"
 author: "Sadman Fakid"
 date: 2019-08-17
 categories: [Short Story]
+comments: true
 permalink: "/:title.html"
 ---
 
