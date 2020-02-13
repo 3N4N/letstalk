@@ -3,7 +3,7 @@ layout: story
 title: "Protagonist"
 author: "Sadman Fakid"
 date: 2019-08-17
-categories: Story
+categories: [Short Story]
 permalink: "/:title.html"
 ---
 

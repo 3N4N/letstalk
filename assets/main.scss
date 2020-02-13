@@ -16,13 +16,13 @@ p {
 }
 
 .story-content hr:before {
-  content: "***";
-  display: block;
-  font-size: 1em;
-  text-align: center;
-  margin-top:    3em;
-  margin-bottom: 3em;
-  color: black;
+	content: "***";
+	display: block;
+	font-size: 1em;
+	text-align: center;
+	margin-top:    3em;
+	margin-bottom: 3em;
+	color: black;
 }
 
 .story-header {
@@ -45,4 +45,46 @@ p {
 
 .by {
 	font-size: 0.7em;
+}
+
+.footer-heading {
+	font-size: 18px;
+	margin-bottom: 15px;
+	color: black;
+}
+
+.footer-col {
+	float: left;
+	margin-bottom: 15px;
+	padding-left: 15px;
+}
+
+.footer-col-1 {
+	color: #282828;
+	width: -webkit-calc(35% - (30px / 2));
+	width: calc(50% - (30px / 2));
+}
+
+.footer-col-3 {
+	width: -webkit-calc(45% - (30px / 2));
+	width: calc(50% - (30px / 2));
+}
+
+@media screen and (max-width: 800px) {
+	.footer-col-1 {
+		width: -webkit-calc(50% - (30px / 2));
+		width: calc(50% - (30px / 2));
+	}
+	.footer-col-3 {
+		width: -webkit-calc(100% - (30px / 2));
+		width: calc(100% - (30px / 2));
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.footer-col {
+		float: none;
+		width: -webkit-calc(100% - (30px / 2));
+		width: calc(100% - (30px / 2));
+	}
 }
