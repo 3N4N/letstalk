@@ -6,17 +6,13 @@ layout: default
 <header class="story-header">
 	<h1 class="story-title">{{ page.title | escape }}</h1>
 	<h5 class="story-title">
-		<div class="by">by</div>
-		{{ page.author | escape }}
+		<span class="by">by</span> {{ page.author | escape }}
 	</h5>
 </header>
 
-<div class="story-first-para">
-	{{ page.excerpt }}
-</div>
 <div class="story-content">
 	<!-- {{ content }} -->
-	{{ content | remove_first:page.excerpt }}
+	{{ content }}
 </div>
 
 <p style="margin:100px"></p>
