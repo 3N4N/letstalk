@@ -22,9 +22,9 @@ wishes. For Rami, words were change, diversion, transmutation. They took
 him where he wanted to go, showed him what he wished to see, let him do
 what he chose to do. To Rami, words were magic.
 
-They—his younger brother and his father—lived in a small house at the
-end of the world. He was very small when his mother died—he was very big
-now, about eight years old—and couldn’t remember how she died. He had
+They——his younger brother and his father——lived in a small house at the
+end of the world. He was very small when his mother died——he was very big
+now, about eight years old——and couldn’t remember how she died. He had
 asked his father about that once and had seen a strange blue knot
 torturing him. He didn’t know what the knot was or where it came from
 but he understood his father didn’t like being strangled by the knot. He
@@ -235,7 +235,7 @@ can take me to mom, too.*
 
 Fearing what might happen and who might see, Rami didn’t use the
 typewriter the next day at all. At night, however, after all the lights
-in the house were turned off and his brother—who shared his room—stopped
+in the house were turned off and his brother——who shared his room——stopped
 tossing and turning, Rami got up and sat at his desk. Rolling a paper in
 the cylinder, he started typing, the mechanical sound of the keys
 piercing the still night but not waking his sleeping brother.
@@ -255,8 +255,8 @@ boundless blossom. At the edge of the lily-covered pool in the middle of
 a woodland, where the sky was bright and sunny, relaxed a woman with her
 feet submerged in the pool.
 
-“Mom?” Rami mused. He was too far away—the typewriter still on his
-desk—for the woman to hear. She had beads of small flowers around her
+“Mom?” Rami mused. He was too far away——the typewriter still on his
+desk——for the woman to hear. She had beads of small flowers around her
 neck and her arms, and a circlet of bright red and yellow blossoms on
 her head. She hadn’t seen him yet. Rami drifted toward her as if in a
 trance.
@@ -268,7 +268,7 @@ sun smiling as one, bringing Rami out of the daze.
 
 “Mom?” Rami repeated, stupidly.
 
-“Yes, honey.” Taking his hand in hers, his mother—*she is my mom*—pulled
+“Yes, honey.” Taking his hand in hers, his mother——*she is my mom*——pulled
 him down beside her and lifted his chin on her hand. “Look how you’ve
 grown. I missed you so much, son. Did you miss me?”
 
@@ -495,7 +495,7 @@ be some way. There must be.”
 
 “There is, honey. We can all be together again. You, Sami, your father.”
 she took his face in both her hands, her black eyes deep as the darkest
-night, her nails—polished red and yellow—bright as the blazing sun. “We
+night, her nails——polished red and yellow——bright as the blazing sun. “We
 can all live together happily ever after.”
 
 Rami understood. *Of course! It’s simple.* Promising his mother he would
